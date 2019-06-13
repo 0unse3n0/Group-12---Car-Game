@@ -1,14 +1,55 @@
-Changes
+ Credits (PREMIERE PRO ((takes like five minutes daniel you lazy shit)) )
+ Controls sheet (haemish or someone else that can do photoshop good)
+ race splash screen (you came position)
 
-Beautify Car Select and Leaderboard
+leaderboard change to player screen - Q
 
-Mesh Track
+post-processing and lighting - DANIEL
+
+Race Positions volumes - haemish or ANOTHER SACRIFICE
+
+Floor Response to loop de loop <-
+
+Obstacles - dan james
+
+check boost works? - Q or Daniel (with Nathan?)
+
+tweak airtime - Q
+
+F L O O R B U G - Q (find people to recreate it?) Try putting cubes around wheel middle (location of linetrace emitter)
+
+replace main menu level - Daniel
+
+CINEMATIC SEQUENCE OPENER - Daniel
+
+3 2 1 - Q and Daniel
+
+car skeletal mesh updates
+
+car static mesh for collisions AND for car select (also wheels in car select)
+
+Art
+
+blinds need adding to game
+new walls and ceiling textures
+sugar, tea, coffee pots have textures. same model different textures so dont have loads of coffee pots, mix them up
+bar stool mats added
 
 
-New
 
-Race HUD - Timer & Race Positions
+////////////////////////
+
+User focus dotted line Projectsttings->UI->Render focus rule-> Never
+/////////////////////////
+
+
+Changed race position to float over int - Bug
+
+Race HUD - Timer & Race Positions - Works
 
 Leaderboard LapTimes (int/float map, Lap/Time)
 
-Button
+Button Hack
+
+
+In order to detect Unhovered, need a system to detect if the button was just "just" hovered. similar to just hovred but one layer deep to control unselecting.
